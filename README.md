@@ -31,7 +31,7 @@
   <a href="https://www.32bits-studio.com/">
   <img src="https://img.shields.io/badge/32%20Bits%20Studio-grey" alt="32 Bits Studio"/></a>
   <a href="https://punished-toni.itch.io/">
-  <img src="https://img.shields.io/badge/My%20itch.io%20page-red" alt="Itch.io profile"/></a>
+  <img src="https://img.shields.io/badge/Punished%20Toni%20on%20Itch.io-white"/></a>
   <a href="https://x.com/trentadosbits">
   <img src="https://img.shields.io/badge/Twitter%2FX-black" alt="32 Bits Studio"/></a>
   </p>
