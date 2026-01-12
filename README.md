@@ -1,16 +1,20 @@
-## Hi there 👋
+<div align="center"><img src="https://media.tenor.com/WuOwfnsLcfYAAAAC/star-wars-obi-wan-kenobi.gif"><div align="center">
+<h1 align="center"> I'm Toni</h1>
+  
 
-<!--
-**adiazlop/adiazlop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨🏻‍💻 About Me:
 
-Here are some ideas to get you started:
+<img  src="./thoughtworks-gif_dribbble.gif" height="290px" align="right" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Indie Developer and Game Programmer, specialized in C#, JavasScript and C++ with experience delivering complete game projects from concept to release. Strong background in gameplay programming, technical art pipelines, and game design. Experienced working with Agile/Scrum methodologies, coordinating small teams, and maintaining clean, scalable codebases for indie game production.
+
+## 🛠️ Technologies and Tools I use:
+
+<p>
+<img alt="Unity" src="https://img.shields.io/badge/Unity-black"/>
+<img alt="Unreal" src="https://img.shields.io/badge/Unreal-Green"/>
+<img alt="C#" src="https://img.shields.io/badge/C%23-blue"/>
+<img alt="Javascript" src="https://img.shields.io/badge/Javascript-red"/>
+<img alt="Html" src="https://img.shields.io/badge/HTML5-brown"/>
+<img alt="React.js" src="https://img.shields.io/badge/React-orange"/>
+</p>
