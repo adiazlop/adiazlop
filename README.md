@@ -1,14 +1,17 @@
 <div align="center">
   <img src="https://media.tenor.com/WuOwfnsLcfYAAAAC/star-wars-obi-wan-kenobi.gif">
 </div>
+
 <h1 align="center">I'm Toni</h1>
+
 <p align="center"><strong>Indie Developer & Game Programmer</strong></p>
 
-## About Me:
+<h2 align="center">About Me</h2>
 
-Indie Developer and Game Programmer, specialized in C#, JavasScript and C++ with experience delivering complete game projects from concept to release. Strong background in gameplay programming, technical art pipelines, and game design. Experienced working with Agile/Scrum methodologies, coordinating small teams, and maintaining clean, scalable codebases for indie game production.
+<p align="center">Indie Developer and Game Programmer, specialized in C#, JavasScript and C++ with experience delivering complete game projects from concept to release. Strong background in gameplay programming, technical art pipelines, and game design. Experienced working with Agile/Scrum methodologies, coordinating small teams, and maintaining clean, scalable codebases for indie game production.
+</p>
 
-## Technologies and Tools I use:
+<h2 align="center">Technologies and Tools I use:</h2>
 
 <p align="center">
 <img alt="Unity" src="https://img.shields.io/badge/Unity-black"/>
@@ -22,13 +25,13 @@ Indie Developer and Game Programmer, specialized in C#, JavasScript and C++ with
 <img alt="Blender" src="https://img.shields.io/badge/Blender-gray"/>
 </p>
 
-## More about me
+<h2 align="center">Let's connect:</h2>
 
 <p align="center">
   <a href="https://www.32bits-studio.com/">
-  <img src="https://img.shields.io/badge/32%20Bits%20Studio-grey" alt="32 Bits Studio"/>
-  </a>
+  <img src="https://img.shields.io/badge/32%20Bits%20Studio-grey" alt="32 Bits Studio"/></a>
   <a href="https://punished-toni.itch.io/">
-  <img src="https://img.shields.io/badge/My%20itch.io%20page-red" alt="Itch.io profile"/>
-  </a>
-</p>
+  <img src="https://img.shields.io/badge/My%20itch.io%20page-red" alt="Itch.io profile"/></a>
+  <a href="https://x.com/trentadosbits">
+  <img src="https://img.shields.io/badge/Twitter%2FX-black" alt="32 Bits Studio"/></a>
+  </p>
