@@ -1,8 +1,8 @@
-<div align="center">
-  <img src="https://media.tenor.com/WuOwfnsLcfYAAAAC/star-wars-obi-wan-kenobi.gif">
-</div>
+<p align="center">
+  <img src="VenomSnake.gif">
+</p>
 
-<h1 align="center">I'm Toni</h1>
+<h1 align="center">Hi, I'm Toni</h1>
 
 <p align="center"><strong>Indie Developer & Game Programmer</strong></p>
 
