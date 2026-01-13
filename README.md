@@ -25,7 +25,7 @@
 <img alt="Blender" src="https://img.shields.io/badge/Blender-gray"/>
 </p>
 
-<h2 align="center">Games Released</h2>
+<h2 align="center">Games published on Steam</h2>
 <p align="center">
   <a href="https://store.steampowered.com/app/3307230/Crimson_Apostle_Escape_Room/">
   <img src="https://lh3.googleusercontent.com/sitesv/AAzXCkcZgLdOGlzU-Dtl6oYjE_C3dHY-eq6p10aoReO1NzVbo0HAuze_pPkwE8Wo9TbQVR4WHpeZ2GX-hKk_7tcwZMFC8RYNXqFLQvqzeR2PJBLOCUowPN7mWw2i-zOcjr--af9upXXLlvi7BN3VfwCrXc1bcWYSWsaytFSCysEb-p6L3-5yAfH-Pod4Hu0oF_YajJegiN6TKpGUgaTdk8csUukSB0BRpCjqufsxhFM=w1280" alt="Crimson Aposte" width="400"/ ></a>
