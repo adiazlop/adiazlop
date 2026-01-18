@@ -8,7 +8,7 @@
 
 <h2 align="center">About Me</h2>
 
-<p align="center">Indie Developer and Game Programmer, specialized in C#, JavasScript and C++ with experience delivering complete game projects from concept to release. Strong background in gameplay programming, technical art pipelines, and game design. Experienced working with Agile/Scrum methodologies, coordinating small teams, and maintaining clean, scalable codebases for indie game production.
+<p align="center">Indie Developer and Game Programmer with experience using C#, JavaScript, and C++, involved in delivering complete game projects from concept to release. Background across gameplay programming, technical art pipelines, and game design, with hands-on experience working in Agile/Scrum environments, coordinating small teams, and maintaining clean, maintainable codebases for indie game production.
 </p>
 
 <h2 align="center">Technologies and Tools I use:</h2>
@@ -28,7 +28,7 @@
 <h2 align="center">Games published on Steam</h2>
 <p align="center">
   <a href="https://store.steampowered.com/app/3307230/Crimson_Apostle_Escape_Room/">
-  <img src="https://lh3.googleusercontent.com/sitesv/AAzXCkcZgLdOGlzU-Dtl6oYjE_C3dHY-eq6p10aoReO1NzVbo0HAuze_pPkwE8Wo9TbQVR4WHpeZ2GX-hKk_7tcwZMFC8RYNXqFLQvqzeR2PJBLOCUowPN7mWw2i-zOcjr--af9upXXLlvi7BN3VfwCrXc1bcWYSWsaytFSCysEb-p6L3-5yAfH-Pod4Hu0oF_YajJegiN6TKpGUgaTdk8csUukSB0BRpCjqufsxhFM=w1280" alt="Crimson Aposte" width="400"/ ></a>
+  <img src="https://lh3.googleusercontent.com/sitesv/AAzXCkfW7cqhzEcP68Xj9AdcHQRQ2e_f1iCm2Bm2RGfmXQQDjMLanhgFdUo4skGEzT8il4vNvHN2CqVvdjHK3cWx8VL0eqPEhQhh_N9XDoE9xLKUwXz_GvuVH4YuxMAB4pNPtSXtfvGys81f0b2qZvqyG97u-VeG8NyOsgqYgZl8yz2pSd4MboUbLMbiV9B3__hRZE_EZSSFTXjr1Ur0zXP55z0_t6zJhnPWAWRwStI=w1280" alt="Crimson Aposte" width="400"/ ></a>
 </p>
 
 <h2 align="center">Let's connect</h2>
