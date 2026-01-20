@@ -28,7 +28,7 @@
 <h2 align="center">Games published on Steam</h2>
 <p align="center">
   <a href="https://store.steampowered.com/app/3307230/Crimson_Apostle_Escape_Room/">
-  <img src="https://lh3.googleusercontent.com/sitesv/AAzXCkfW7cqhzEcP68Xj9AdcHQRQ2e_f1iCm2Bm2RGfmXQQDjMLanhgFdUo4skGEzT8il4vNvHN2CqVvdjHK3cWx8VL0eqPEhQhh_N9XDoE9xLKUwXz_GvuVH4YuxMAB4pNPtSXtfvGys81f0b2qZvqyG97u-VeG8NyOsgqYgZl8yz2pSd4MboUbLMbiV9B3__hRZE_EZSSFTXjr1Ur0zXP55z0_t6zJhnPWAWRwStI=w1280" alt="Crimson Aposte" width="400"/ ></a>
+  <img src="CA_ART_1920_1080.png" alt="Crimson Aposte" width="400"/ ></a>
 </p>
 
 <h2 align="center">Let's connect</h2>
