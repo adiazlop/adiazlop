@@ -9,7 +9,7 @@
 
 <h2 align="center">About Me</h2>
 
-<p align="center">Game Developer and Frontend Programmer with experience using C#, JavaScript, and C++, involved in delivering complete game projects from concept to release. Background across gameplay programming, technical art pipelines, and game design, with hands-on experience working in Agile/Scrum environments, coordinating small teams, and maintaining clean, maintainable codebases for indie game production.
+<p align="center">Game Programmer and Frontend Developer with experience using C#, JavaScript, and C++, involved in delivering complete game projects from concept to release. Background across gameplay programming, technical art pipelines, and game design, with hands-on experience working in Agile/Scrum environments, coordinating small teams, and maintaining clean, maintainable codebases for indie game production.
 </p>
 
 <h2 align="center">Technologies and Tools I use:</h2>
