@@ -3,8 +3,9 @@
 </p>
 
 <h1 align="center">Hi, I'm Toni</h1>
-
-<p align="center"><strong>Indie Developer & Game Programmer</strong></p>
+<p align="center">
+  <img src = Role.svg>
+</p>
 
 <h2 align="center">About Me</h2>
 
